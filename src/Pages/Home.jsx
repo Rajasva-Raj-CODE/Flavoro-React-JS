@@ -1,5 +1,6 @@
 
 import CategoryMenu from '../Components/CategoryMenu'
+import FoodItems from '../Components/FoodItems'
 import Navbar from '../Components/Navbar'
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
     <>
     <Navbar/>
     <CategoryMenu/>
+    <FoodItems/>
     </>
   )
 }
