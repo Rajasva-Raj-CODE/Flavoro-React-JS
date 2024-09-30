@@ -13,6 +13,8 @@ const Cart = () => {
 
 
         <ItemsCart/>
+        <ItemsCart/>
+        <ItemsCart/>
 
         <div className="absolute bottom-0 ">
           <h3 className="font-semibold text-gray-800">Items</h3>
