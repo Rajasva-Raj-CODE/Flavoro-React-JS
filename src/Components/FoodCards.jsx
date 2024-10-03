@@ -1,6 +1,12 @@
 import { FaStar } from "react-icons/fa";
+import { useDispatch } from "react-redux";
+import { addToCart } from "../Redux/slices/CartSlice";
+
 
 const FoodCards = ({ id, name, price, rating, desc, img }) => {
+
+  const dispatch = useDispatch()
+  
   return (
     <div className="font-bold w-[250px] bg-white p-5 flex flex-col rounded-lg gap-2">
       <img
