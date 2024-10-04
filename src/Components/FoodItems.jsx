@@ -1,4 +1,4 @@
-import React from "react";
+
 import FoodCards from "./FoodCards";
 import FoodData from "../Data/FoodData";
 
