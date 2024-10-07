@@ -3,15 +3,16 @@ import { MdDelete } from "react-icons/md";
 import { useDispatch } from "react-redux";
 import { removeFromCart } from "../Redux/slices/CartSlice";
 
-const ItemsCart = (id, name, qty, price, img) => {
+const ItemsCart = ({ id, name, qty, price, img }) => {
   const dispatch = useDispatch();
+  
   return (
-    <div className="flex gap-2 shadow-md rounded-lg p-2 mb-3 ">
+    <div className="flex gap-2 shadow-md rounded-lg p-2 mb-3 relative">
       <MdDelete
         className="absolute right-7 text-gray-600 cursor-pointer"
-        onClick={() => dispatch({id,img,name,price,qty})}
+        onClick={() => dispatch(removeFromCart(id))} 
       />
-      <img src={img} alt="" className="w-[50px] h-[50px]" />
+      <img src={img} alt={name} className="w-[50px] h-[50px]" />  
       <div className="leading-5">
         <h2 className="font-bold text-gray-800">{name}</h2>
         <div className="flex justify-between">
@@ -27,4 +28,4 @@ const ItemsCart = (id, name, qty, price, img) => {
   );
 };
 
-export default ItemsCart;
+export default ItemsCart;
