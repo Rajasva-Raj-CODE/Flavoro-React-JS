@@ -10,7 +10,7 @@ const ItemsCart = ({ id, name, qty, price, img }) => {
     <div className="flex gap-2 shadow-md rounded-lg p-2 mb-3 relative">
       <MdDelete
         className="absolute right-7 text-gray-600 cursor-pointer"
-        onClick={() => dispatch(removeFromCart(id))} 
+        onClick={() => dispatch(removeFromCart({id}))} 
       />
       <img src={img} alt={name} className="w-[50px] h-[50px]" />  
       <div className="leading-5">
