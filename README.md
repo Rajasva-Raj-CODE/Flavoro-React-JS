@@ -41,7 +41,7 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 
 
-## Images of XORA:
+## Images of Flavoro:
 
 #### Hero Section
 
