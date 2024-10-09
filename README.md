@@ -86,42 +86,12 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 #### ---
 
-<p align="center">
-
-  <img src="https://i.ibb.co/pJzF4mY/Screenshot-2024-10-06-195035.png" width="750" title="hover text">
-  
-</p>
 
 <p align="center">
 
   <img src="https://i.ibb.co/wRHJSP8/Screenshot-2024-10-09-163112.png" width="750" title="hover text">
   
 </p>
-
-<p align="center">
-
-  <img src="https://i.ibb.co/jfbHjrB/Screenshot-2024-10-06-195146.png" width="750" title="hover text">
-  
-</p>
-
-<p align="center">
-
-  <img src="https://i.ibb.co/bg32ptZ/Screenshot-2024-10-06-195225.png" width="750" title="hover text">
-  
-</p>
-
-<p align="center">
-
-  <img src="https://i.ibb.co/pzwMCqm/Screenshot-2024-10-06-195257.png" width="750" title="hover text">
-  
-</p>
-
-<p align="center">
-
-  <img src="https://i.ibb.co/BN3QTjF/Screenshot-2024-10-06-195323.png" width="750" title="hover text">
-  
-</p>
-
 
 ## 🚀 Getting Started
 To get started with this project, clone the repository and install the necessary dependencies.
