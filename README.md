@@ -48,7 +48,7 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 <p align="center">
 
- <img src="https://i.ibb.co/ydNvNXX/Screenshot-2024-10-06-194722.png" width="750" title="hover text">
+ <img src="https://i.ibb.co/bHdV0nW/Screenshot-2024-10-09-162815.png"  width="750" title="hover text">
   
 </p>
 
@@ -56,7 +56,7 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 <p align="center">
 
-  <img src="https://i.ibb.co/YfzHDjx/Screenshot-2024-10-06-194815.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/cJrzXm8/Screenshot-2024-10-09-162916.png"  width="750" title="hover text">
   
 </p>
 
@@ -64,7 +64,7 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 <p align="center">
 
-  <img src="https://i.ibb.co/wNb0nLz/Screenshot-2024-10-06-194840.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/DtTwqkj/Screenshot-2024-10-09-162948.png"  width="750" title="hover text">
   
 </p>
 
@@ -72,7 +72,7 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 <p align="center">
 
-  <img src="https://i.ibb.co/rFHv8vj/Screenshot-2024-10-06-194913.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/fpKfmG5/Screenshot-2024-10-09-163022.png"  width="750" title="hover text">
   
 </p>
 
@@ -80,7 +80,7 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 <p align="center">
 
-  <img src="https://i.ibb.co/d00736B/Screenshot-2024-10-06-194950.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/9hGQKf1/Screenshot-2024-10-09-163051.png"  width="750" title="hover text">
   
 </p>
 
@@ -94,7 +94,7 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 <p align="center">
 
-  <img src="https://i.ibb.co/sC2g2M6/Screenshot-2024-10-06-195111.png" width="750" title="hover text">
+  <img src="https://i.ibb.co/wRHJSP8/Screenshot-2024-10-09-163112.png" width="750" title="hover text">
   
 </p>
 
