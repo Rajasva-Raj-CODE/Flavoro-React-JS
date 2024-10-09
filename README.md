@@ -11,7 +11,7 @@
 ## 📑 Introduction
 
 Food_Ordering-App:This project is a modern, feature-rich e-commerce platform designed to deliver a seamless user experience. Built using React for a dynamic front-end, Redux Toolkit for state management, and Tailwind CSS for responsive, clean UI design, it integrates key e-commerce functionalities such as product search, filtering, add to cart, remove from cart, and secure checkout.
-In addition, protected routes were implemented to restrict access to sensitive areas like checkout and user accounts, ensuring secure navigation. The application includes react-spinners for smooth, intuitive loaders, and is fully deployed on Vercel, providing a fast, scalable, and continuous integration/deployment pipeline.
+In addition, protected routes were implemented to restrict access to sensitive areas like checkout and user accounts, ensuring secure navigation. The application includes react-spinners for smooth, intuitive loaders, and is fully deployed on Vercel, providing a fast, scalable.
 
 ## 💻 Technologies Used
 - Vite
@@ -29,7 +29,8 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 👉 **Routing:** Implemented protected routes to ensure secure access to certain parts of the app, like user accounts and checkout.
 
-👉 **E-commerce Features:**
+👉 **E-commerce Features:------------------------------------**
+
 👉 **Search:** Enhanced user experience with a fast and intuitive search function.
 
 👉 **Add to Cart & Remove from Cart:** Enabled seamless cart management with real-time updates.
