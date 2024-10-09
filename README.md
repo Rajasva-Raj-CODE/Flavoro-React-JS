@@ -22,13 +22,20 @@ In addition, protected routes were implemented to restrict access to sensitive a
 
 ## ✨ Features
 👉 **Frontend:** Developed using React.js, delivering a highly interactive and scalable user interface.
+
 👉 **Styling:** Utilized Tailwind CSS for sleek, responsive design, allowing rapid and mobile-friendly UI development.
+
 👉 **State Management:** Integrated Redux Toolkit to handle complex state logic, efficiently managing global data flow.
+
 👉 **Routing:** Implemented protected routes to ensure secure access to certain parts of the app, like user accounts and checkout.
+
 👉 **E-commerce Features:**
 👉 **Search:** Enhanced user experience with a fast and intuitive search function.
+
 👉 **Add to Cart & Remove from Cart:** Enabled seamless cart management with real-time updates.
+
 👉 **Filter Option:** Added filtering to help users find exactly what they need.
+
 👉 **Checkout:** Integrated a secure checkout process to complete transactions smoothly.
 
 
